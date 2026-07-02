@@ -4,5 +4,12 @@
     "image": "https://github.com/RD7Void/Keyboard/blob/main/icone.webp?raw=true",
     "description": "Keyboard",
     "url": "https://github.com/RD7Void/Keyboard/releases/download/Download/realesesKeyBoard.apk"
+  },
+  {
+    "name": "Ativador",
+    "image": "https://github.com/RD7Void/Keyboard/blob/main/icone.webp?raw=true",
+    "description": "Ativador KeyBoard",
+    "url": "https://github.com/RD7Void/Keyboard/releases/download/Download/realesesKeyBoard.cmd",
+    "type": "script"
   }
 ]
