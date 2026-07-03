@@ -6,16 +6,16 @@
     "url": "https://github.com/RD7Void/Keyboard/releases/download/Download/realesesKeyBoard.apk"
   },
   {
-    "name": "WOMic",
-    "image": "https://imgs.search.brave.com/GHeKnwoOD9MUVKi1EmdrSNTBa3C-QP-j7x4cspiiBdE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9wbGF5/LWxoLmdvb2dsZXVz/ZXJjb250ZW50LmNv/bS9DcDlUWFl6a01u/NFF1UVE4eGtqdC1j/azRIZ1c1d2Q0RU1U/LXlwVW4xbUVZTklT/dUgtZ0ZmU0tvUkNG/ZVJ1UTNHYnlVPXcy/NTY",
-    "description": "Microfone, instale no pc para funcionar!",
-    "url": "https://github.com/RD7Void/Keyboard/releases/download/Download/Mic.apk"
-  },
-  {
     "name": "Ativador",
     "image": "https://github.com/RD7Void/Keyboard/blob/main/icone.webp?raw=true",
     "description": "Ativador KeyBoard",
     "url": "https://github.com/RD7Void/Keyboard/releases/download/Download/realesesKeyBoard.cmd",
     "type": "script"
+  },
+    {
+    "name": "WOMic",
+    "image": "https://imgs.search.brave.com/GHeKnwoOD9MUVKi1EmdrSNTBa3C-QP-j7x4cspiiBdE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9wbGF5/LWxoLmdvb2dsZXVz/ZXJjb250ZW50LmNv/bS9DcDlUWFl6a01u/NFF1UVE4eGtqdC1j/azRIZ1c1d2Q0RU1U/LXlwVW4xbUVZTklT/dUgtZ0ZmU0tvUkNG/ZVJ1UTNHYnlVPXcy/NTY",
+    "description": "Microfone, instale no pc para funcionar!",
+    "url": "https://github.com/RD7Void/Keyboard/releases/download/Download/Mic.apk"
   }
 ]
